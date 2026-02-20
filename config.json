@@ -1,0 +1,8 @@
+{
+  "default_size": 25.0,
+  "order_type": "GTC",
+  "slippage_warn": 3.0,
+  "slippage_block": 5.0,
+  "min_time_remaining": 30,
+  "sig_type": 1
+}
